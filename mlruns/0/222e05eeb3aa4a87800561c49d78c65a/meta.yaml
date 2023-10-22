@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Titanic_MLflow/mlruns/0/222e05eeb3aa4a87800561c49d78c65a/artifacts
+end_time: 1697985835855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 222e05eeb3aa4a87800561c49d78c65a
+run_name: Logistic_Regressiot_Classifier
+run_uuid: 222e05eeb3aa4a87800561c49d78c65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697985829894
+status: 3
+tags: []
+user_id: USER
